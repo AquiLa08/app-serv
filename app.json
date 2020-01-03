@@ -14,12 +14,12 @@
     "content": {
         "page1": {
           "title": "This is Page1",
-          "url": "https://ess-soft.github.io/static-web/page1.html",
+          "url": "https://aquila08.github.io/app-serv/page1.html",
           "img": "https://www.freepngimg.com/thumb/gun/4-revolver-handgun-png-image-thumb.png"
         },
         "page2": {
           "title": "This is Page2",
-          "url": "https://ess-soft.github.io/static-web/page2.html",
+          "url": "https://aquila08.github.io/app-serv/page2.html",
           "img": "https://www.freepngimg.com/thumb/gun/10-handgun-png-image-thumb.png"
         },
         "page3": {
@@ -34,85 +34,29 @@
         },
         "page5": {
           "title": "This is Page5",
-          "url": "https://www.google.com",
+          "url": "https://aquila08.github.io/app-serv/page2.html",
           "img": "https://www.freepngimg.com/thumb/gun/9-handgun-png-image-thumb.png"
         },
         "page6": {
           "title": "This is Page6",
-          "url": "https://www.google.com",
+          "url": "https://aquila08.github.io/app-serv/page1.html",
           "img": "https://www.freepngimg.com/thumb/gun/26-handgun-png-image-thumb.png"
         },
         "page7": {
           "title": "This is Page7",
-          "url": "https://ess-soft.github.io/static-web/page1.html",
+          "url": "https://aquila08.github.io/app-serv/page2.html",
           "img": "https://www.freepngimg.com/thumb/bullets/3-bullets-png-image-thumb.png"
         },
         "page8": {
           "title": "This is Page8",
-          "url": "https://www.google.com",
+          "url": "https://aquila08.github.io/app-serv/page1.html",
           "img": "https://www.freepngimg.com/thumb/gun/14-makarov-handgun-png-image-thumb.png"
         },
         "page9": {
           "title": "This is Page9",
-          "url": "https://www.google.com",
+          "url": "https://aquila08.github.io/app-serv/page2.html",
           "img": "https://www.freepngimg.com/thumb/helicopter/10-helicopter-png-image-thumb.png"
         }
       }
 }
-{
-"app": {
-"name": "Server Guide",
-"color": "#008577"
-},
-"ads": {
-"bannerId": "ca-app-pub-3940256099942544/6300978111",
-"interstitialId": "ca-app-pub-3940256099942544/1033173712"
-},
-"content": {
-"page1": {
-"title": "This is Page1",
-"url": "https://ess-soft.github.io/static-web/page1.html",
-"img": "https://www.freepngimg.com/thumb/gun/4-revolver-handgun-png-image-thumb.png"
-},
-"page2": {
-"title": "This is Page2",
-"url": "https://ess-soft.github.io/static-web/page2.html",
-"img": "https://www.freepngimg.com/thumb/gun/10-handgun-png-image-thumb.png"
-},
-"page3": {
-"title": "This is Page3",
-"url": "https://ess-soft.github.io/static-web/page2.html",
-"img": "https://www.freepngimg.com/thumb/assault%20rifle/1-assault-rifle-png-thumb.png"
-},
-"page4": {
-"title": "This is Page4",
-"url": "https://ess-soft.github.io/static-web/page1.html",
-"img": "https://www.freepngimg.com/thumb/gun/6-makarov-russian-handgun-png-image-thumb.png"
-},
-"page5": {
-"title": "This is Page5",
-"url": "https://www.google.com",
-"img": "https://www.freepngimg.com/thumb/gun/9-handgun-png-image-thumb.png"
-},
-"page6": {
-"title": "This is Page6",
-"url": "https://www.google.com",
-"img": "https://www.freepngimg.com/thumb/gun/26-handgun-png-image-thumb.png"
-},
-"page7": {
-"title": "This is Page7",
-"url": "https://ess-soft.github.io/static-web/page1.html",
-"img": "https://www.freepngimg.com/thumb/bullets/3-bullets-png-image-thumb.png"
-},
-"page8": {
-"title": "This is Page8",
-"url": "https://www.google.com",
-"img": "https://www.freepngimg.com/thumb/gun/14-makarov-handgun-png-image-thumb.png"
-},
-"page9": {
-"title": "This is Page9",
-"url": "https://www.google.com",
-"img": "https://www.freepngimg.com/thumb/helicopter/10-helicopter-png-image-thumb.png"
-}
-}
-}
+
